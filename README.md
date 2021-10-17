@@ -1,1 +1,1 @@
-# hirschberg-algorithm
+# Hirschberg algorithm
